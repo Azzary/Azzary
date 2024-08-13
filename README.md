@@ -81,10 +81,3 @@ I'm always open to interesting conversations and opportunities. Feel free to rea
 - 💼 LinkedIn: [Rémi Colin](https://www.linkedin.com/in/r%C3%A9mi-colin-b11821251/)
 
 ---
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Funny cat gif">
-</p>
